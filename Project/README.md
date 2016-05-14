@@ -1,0 +1,1 @@
+An android application using the Places of Interest Mapping Service.
